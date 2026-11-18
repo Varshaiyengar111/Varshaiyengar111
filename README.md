@@ -1,18 +1,21 @@
 ### Hi, I'm Varsha 👋
 
-**Product manager building AI products for health and education in India.**
+**Product manager building AI products for health and education in India.** Based in Bengaluru.
 
-I care about AI that is genuinely useful, safe by design, and honest about its limits, especially for people who don't usually get good technology first.
+5+ years in HealthTech and MedTech, from consumer health apps and AI tools to surgical training simulators. I care about AI that is genuinely useful, safe by design, and honest about its limits.
 
-- 🔭 Currently building an AI voice product for mental wellbeing in India
-- 🧭 How I work: start from the user's real problem, define what "good" looks like before building, ship the smallest thing that tests it, and measure
-- 🛡️ What I hold firm on: privacy, human oversight, and guardrails that don't depend on the AI behaving
+- 💼 **Product Manager, Elevate Now** (2025 to now): building a digital health coaching platform used by 100,000+ people
+  - Shipped an **AI Smart Diet Planner** that builds personalised meal plans from clinical data, cuisine, medication and vitals, cutting plan creation from 22 minutes to under 5
+  - Led the 0-to-1 consumer app (onboarding, coach matching, call booking) and **Buddy**, an AI health companion that runs pre-call intake and routes clinical questions to the right care team member
+  - Built a task dashboard that flags high-risk users for 300 health coaches, cutting diet-plan turnaround from 72+ hours to under 24
+- 🩺 **Product Manager, Reprosci Biosciences** (2022 to 2025): owned Fertilator, a haptic simulation platform for training IVF and gynaecology doctors. Took the Embryo Transfer Simulator from concept to market in 8 months
+- 📄 Co-authored a peer-reviewed paper on simulator-based IVF training at **ESHRE 2024**
+- 🎓 MSc Biotechnology, University of Glasgow · BSc, Mount Carmel College, Bengaluru
+- 🔭 Currently also building an AI voice product for mental wellbeing in India
 
-<!--
-  TODO (Varsha): add 2-3 lines about your background here, for example:
-  - 💼 Previously: <role> at <company>, where I <one result you're proud of>
-  - 🎓 <degree or relevant learning, if you want it here>
--->
+**How I work:** start from the user's real problem, define what "good" looks like before building, ship the smallest thing that tests it, and measure. **What I hold firm on:** privacy, human oversight, and guardrails that don't depend on the AI behaving.
+
+**Toolkit:** product strategy · 0-to-1 · user research · product analytics · SQL · Power BI · JIRA · Figma · Claude · Lovable
 
 ---
 
@@ -33,4 +36,4 @@ All demos run free with built-in examples, and use only made-up data.
 
 ### 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[LinkedIn](https://www.linkedin.com/in/iyengar22)
