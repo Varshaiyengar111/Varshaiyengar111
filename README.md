@@ -4,10 +4,10 @@
 
 5+ years in HealthTech and MedTech, from consumer health apps and AI tools to surgical training simulators. I care about AI that is genuinely useful, safe by design, and honest about its limits.
 
-- 💼 **Product Manager, Elevate Now** (2025 to now): building a digital health coaching platform used by 100,000+ people
-  - Shipped an **AI Smart Diet Planner** that builds personalised meal plans from clinical data, cuisine, medication and vitals, cutting plan creation from 22 minutes to under 5
+- 💼 **Product Manager, Elevate Now** (2025 to now): building a digital health coaching platform
+  - Shipped an **AI Smart Diet Planner** that builds personalised meal plans from clinical data, cuisine, medication and vitals, making plan creation much faster
   - Led the 0-to-1 consumer app (onboarding, coach matching, call booking) and **Buddy**, an AI health companion that runs pre-call intake and routes clinical questions to the right care team member
-  - Built a task dashboard that flags high-risk users for 300 health coaches, cutting diet-plan turnaround from 72+ hours to under 24
+  - Built a task dashboard that flags high-risk users for health coaches, so diet plans reach people far sooner
 - 🩺 **Product Manager, Reprosci Biosciences** (2022 to 2025): owned Fertilator, a haptic simulation platform for training IVF and gynaecology doctors. Took the Embryo Transfer Simulator from concept to market in 8 months
 - 📄 Co-authored a peer-reviewed paper on simulator-based IVF training at **ESHRE 2024**
 - 🎓 MSc Biotechnology, University of Glasgow · BSc, Mount Carmel College, Bengaluru
