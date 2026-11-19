@@ -1,4 +1,4 @@
-### Hi, I'm Varsha 👋
+### Hi, I'm Varsha Iyengar
 
 **Product manager building AI products for health and education in India.** Based in Bengaluru.
 
