@@ -23,14 +23,14 @@
 
 Small, finished projects. Each README is written like a mini product spec: problem, users, scope, success metrics, a working demo, and what I'd do next.
 
-| Project | Area | What it shows |
-|---|---|---|
-| [**Visit Prep**](https://github.com/Varshaiyengar111/visit-prep) | Health tech | Turns a messy symptom diary into a one-page doctor summary. AI that organises but never diagnoses, plus an urgent-help check that doesn't rely on AI |
-| [**No-Show Radar**](https://github.com/Varshaiyengar111/no-show-radar) | Health tech | Ranks clinic appointments by no-show risk with plain-language reasons, a staff-capacity trade-off slider and an honest fairness check |
-| [**Lesson to Quiz**](https://github.com/Varshaiyengar111/lesson-to-quiz) | Edtech | A printable quiz from any lesson, with every question checked against the lesson text |
-| [**Rubric Buddy**](https://github.com/Varshaiyengar111/rubric-buddy) | Edtech | Rubric-based marking suggestions with evidence quotes. The teacher always sets the final mark |
+| Project | Area | What it shows | Demo |
+|---|---|---|---|
+| [**Visit Prep**](https://github.com/Varshaiyengar111/visit-prep) | Health tech | Turns a messy symptom diary into a one-page doctor summary. AI that organises but never diagnoses, plus an urgent-help check that doesn't rely on AI | [▶ Try it](https://varshaiyengar111.github.io/visit-prep/) |
+| [**No-Show Radar**](https://github.com/Varshaiyengar111/no-show-radar) | Health tech | Ranks clinic appointments by no-show risk with plain-language reasons, a staff-capacity trade-off slider and an honest fairness check | [▶ Try it](https://varshaiyengar111.github.io/no-show-radar/) |
+| [**Lesson to Quiz**](https://github.com/Varshaiyengar111/lesson-to-quiz) | Edtech | A printable quiz from any lesson, with every question checked against the lesson text | [▶ Try it](https://varshaiyengar111.github.io/lesson-to-quiz/) |
+| [**Rubric Buddy**](https://github.com/Varshaiyengar111/rubric-buddy) | Edtech | Rubric-based marking suggestions with evidence quotes. The teacher always sets the final mark | [▶ Try it](https://varshaiyengar111.github.io/rubric-buddy/) |
 
-All demos run free with built-in examples, and use only made-up data.
+All demos run free in your browser with built-in examples, and use only made-up data.
 
 ---
 
